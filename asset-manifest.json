@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travlling-web-in-react/static/css/main.aead85b5.css",
+    "main.js": "/travlling-web-in-react/static/js/main.3c87e239.js",
+    "static/js/787.fb146eda.chunk.js": "/travlling-web-in-react/static/js/787.fb146eda.chunk.js",
+    "index.html": "/travlling-web-in-react/index.html",
+    "main.aead85b5.css.map": "/travlling-web-in-react/static/css/main.aead85b5.css.map",
+    "main.3c87e239.js.map": "/travlling-web-in-react/static/js/main.3c87e239.js.map",
+    "787.fb146eda.chunk.js.map": "/travlling-web-in-react/static/js/787.fb146eda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aead85b5.css",
+    "static/js/main.3c87e239.js"
+  ]
+}
